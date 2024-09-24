@@ -1,0 +1,33 @@
+# Node.js
+/employee-managment/node_modules
+/employee-mangment-fe/node_modules
+.env
+
+# React
+/employee-mangment-fe  /build
+
+
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+employee-mangment-fe/node_modules
+employee-mangment-fe/.pnp
+employee-mangment-fe/.pnp.js
+
+# testing
+employee-mangment-fe/coverage
+
+# production
+employee-mangment-fe/build
+
+# misc
+employee-mangment-fe/.DS_Store
+employee-mangment-fe/.env.local
+employee-mangment-fe/.env.development.local
+employee-mangment-fe/.env.test.local
+employee-mangment-fe/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
